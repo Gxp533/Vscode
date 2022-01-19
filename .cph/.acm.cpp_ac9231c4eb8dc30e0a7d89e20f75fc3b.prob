@@ -1,0 +1,1 @@
+{"name":"Local: acm","url":"d:\\文件\\Vscode-c\\.vscode\\acm.cpp","tests":[{"id":1642324979393,"input":"3 3\n/\\\\\n\\\\\\\n/\\/","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\文件\\Vscode-c\\.vscode\\acm.cpp","group":"local","local":true}
